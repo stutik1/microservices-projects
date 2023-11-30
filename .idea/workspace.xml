@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e50899-e3cd-4190-b352-a215acf2de7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/stuti/currencyconversionservice/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/stuti/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/currency-conversion-service/target/classes/com/stuti/currencyconversionservice/CurrencyConversionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/currency-conversion-service/target/classes/com/stuti/currencyconversionservice/CurrencyConversionController.class" afterDir="false" />
+    <list default="true" id="a2e50899-e3cd-4190-b352-a215acf2de7c" name="Changes" comment="delete module">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,29 @@
       <option name="presentableId" value="Default" />
       <updated>1701361149940</updated>
     </task>
+    <task id="LOCAL-00001" summary="delete module">
+      <created>1701362586586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701362586586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete module" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete module" />
   </component>
 </project>
