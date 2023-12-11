@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/../currency-conversion-service/pom.xml" />
         <option value="$PROJECT_DIR$/../microservices-projects/naming-server/pom.xml" />
         <option value="$PROJECT_DIR$/../microservices-projects/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../naming-server/pom.xml" />
       </list>
     </option>
   </component>
